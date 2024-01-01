@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  height: 70vh;
+}
